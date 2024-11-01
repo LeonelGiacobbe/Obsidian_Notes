@@ -1,0 +1,1 @@
+Negotiate tuition. Go back and forh with universities that you'd like to attend saying another school offered more money, and if they can give you a better offer. Google "negotiating tuition".

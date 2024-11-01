@@ -1,0 +1,10 @@
+- Balance sheet: tells you assets and debts of company, stating its net worth
+- Fixed asset: investment in physical property used to generate income
+- Income statement: talks about profitability of the business, the revenues and expenses, and profits of losses
+- COGS: Costs of Goods Sold
+- EBIT: Earnings Before Interests and Taxes
+- Profit Margin = EBIT / Total revenue (before expenses)
+- Earnings yield: earnings compared to Initial Market Valuation
+- Return on Capital: earnings compared to how much money was spent to get those earnings. For example, buying a 500k home that earns us 1k a month is a ROC of 1k/500k or 2 percent.
+- Debt: safer than equity
+- Paying dividends gives cash in your pocket ( to owners and or investors) but means a slower growth of business and less profit.

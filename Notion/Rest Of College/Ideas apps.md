@@ -1,0 +1,1 @@
+- Aplicación para ver modelos de animales o planetas 3D, con datos y actividades.

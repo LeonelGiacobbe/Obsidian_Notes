@@ -1,0 +1,3 @@
+[https://www.collegetransitions.com/](https://www.collegetransitions.com/)
+
+[https://www.nyu.edu/students/student-information-and-resources/student-visa-and-immigration/newly-admitted/frequently-asked-questions.html](https://www.nyu.edu/students/student-information-and-resources/student-visa-and-immigration/newly-admitted/frequently-asked-questions.html) →FAQs, including legal status, opening bank accounts, debit / credit cards, etc.

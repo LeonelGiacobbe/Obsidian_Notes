@@ -1,0 +1,3 @@
+Te invitamos a entrar y descubrir nuestro espacio interactivo para que puedan generar redes de contacto y trabajo: [https://invite.sophya.world/join/JxsBJTtGXkfjVrEWQrJx?user=BNuwxcJ21pYPlZsnCC3RR0XQuej2&room=library](https://invite.sophya.world/join/JxsBJTtGXkfjVrEWQrJx?user=BNuwxcJ21pYPlZsnCC3RR0XQuej2&room=library)
+
+[https://invite.sophya.world/join/JxsBJTtGXkfjVrEWQrJx?user=BNuwxcJ21pYPlZsnCC3RR0XQuej2&room=library](https://invite.sophya.world/join/JxsBJTtGXkfjVrEWQrJx?user=BNuwxcJ21pYPlZsnCC3RR0XQuej2&room=library)

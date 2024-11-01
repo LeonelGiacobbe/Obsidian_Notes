@@ -1,0 +1,1 @@
+En un triángulo equilátero, la hipotenusa (2X) vale el doble que uno de los catetos (X) y el otro cateto vale X$√3$

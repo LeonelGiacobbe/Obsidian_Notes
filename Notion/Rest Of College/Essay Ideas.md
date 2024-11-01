@@ -1,0 +1,2 @@
+- Hablar de la cocina de la tia norma, y lo que representa en la familia (especialmente la pastafrola).
+- How I overcame my hate for geometry. Bad at it during first stages of the math olympiad, loved it in later stages.

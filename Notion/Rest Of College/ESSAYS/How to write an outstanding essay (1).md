@@ -1,0 +1,8 @@
+- Showcase my strengths and moral alignments.
+- Show characters of personality that are not expressed in other parts of app (kindness, persistance, etc).
+- Use a cold open and focus on 1/2 charac about me.
+- Take advantage of personal anecdotes.
+- Does not need to be a unique topic, just has to show who you are.
+- Write a shitty first draft. Dont pay attention to grammar, sense, anthing. Just dump ideas from ur head into the paper.
+- Essay should sound like me and be conversational.
+- If you erased the name from the essay, you should still be able to tell it is yours.

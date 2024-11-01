@@ -1,0 +1,1 @@
+**15:** Un número es divisible por 15 si su última cifra es cero o cinco (divisible por 5) y si a su vez la suma de sus valores absolutos es múltiplo de 3 (divisible por tres). Ejemplos: 345 es divisible por 15 al ser 5 su última cifras y 3+4+5=12 que es múltiplo de 3 por ser 12=3x4.
