@@ -1,0 +1,1 @@
+- Creates multiple threads, allowing for processing of multiple messages and servers in parallel.

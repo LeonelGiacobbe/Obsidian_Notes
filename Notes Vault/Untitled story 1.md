@@ -1,0 +1,25 @@
+---
+Created: 2024-03-03T23:47
+---
+- royal guard. Average, nothing special at first
+- Assigned to go on a diplomatic mission, accompanying the king to another kingdom with whom they had always had a troubling relationship
+- During the meeting with the other king, he sees a beautiful marble statue with emeralds as eyes. He becomes obsessed with it and cant stop thinking about it.
+- Meeting goes well, king tells royal guard they’ll be coming back next month. This calms the guard because he thinks he’ll be seeing the statue soon.
+- A month goes by. Guard asks king about when they’ll be going again. He says they won’t because tensions are higher than ever. Guard knows that whether they go or not is not up to him.
+- Becomes depressed and looks for a plan to see the statue again.
+- Tries sneaking to the other kingdom on his own. He fails and almost dies. He realizes he cannot do it alone.
+- There are two paths to the other kingdom. A slower but safer one, and a faster and more dangerous one.
+- He finally sets on a plan to become the highest ranking military officer of his kingdom.
+- Takes him a lot of time but he does. He makes a best friend in the mean time, who he chooses to be his second in command.
+- As the leader of the military, the protagonist chooses 4 soldiers to make a team of five. These five are the ones who handle the most dangerous assignments of the kingdom. Secretly, they have also been training to be able to make it to the other kingdom. The protagonist lies to the other four about the purpose of the visit.
+- His second in command knows about the group of five but not about its real purpose. He is also NOT a part of those five.
+- One day, they decide they are ready and begin the journey to the other kingdom. They choose the slower but safer path. Protagonist tells the second in command they will be back in a week. Does not tell him where they are going. Second in command feels betrayed.
+- After a few days, one of them falls sick. They cannot carry on. The journey is too difficult for four people, so they decide to wait for the fifth to heal. At the same time, the second in command notices the group has not come back after a week. Figures they have been captured by the other kingdom, so he launches a full on attack. Takes the whole army with him. They choose the quicker path.
+- The second in command arrives first to the city and starts a war. They use mortars, catapults, and set buildings on fire.
+- When the five get to the kingdom, they see that they are at war. The protagonist realizes he may have caused the destruction of the statue, so he ditches the others and goes straight to make sure it is ok.
+- After getting there, he encounters his second in command. Protagonist realizes his best friend is the one that caused the war. The second in command is also furious because he was not told about the true purpose of the group. They battle against each other. The protagonist wins, but is badly injured. The injury is severe but he will live.
+- After killing his best friend, he crawls towards the statue, and climbs on it to kiss the woman. The rubble has chipped parts of its face. Now the statue’s expression is that of a disappointed person. Protagonist realizes he has betrayed his people and his best friend.
+- He begins to slip because his hands are all covered in blood. He cannot get himself to let go of the statue, knowing this will be the last time he will be with it.
+- Him not letting go causes him to fall backwards, taking the heavy quartz statue with him. He falls to the ground; opens his eyes, and sees the statue’s face for one last time before the 5 ton stone crushes his skull against the floor.
+- The reason he does not tell his best friend about the true purpose of the mission is because he cares too much about him and knows it is wrong + how dangerous it is. This makes the final battle where he kills his best friend more emotional, and shows the obsession with the statue. The best friend knew he liked the statue but not to that extreme extent.
+- Alternative ending (I dont like this one that much): kills best friend, sees the disappointed face, realizes what he has done, kills himself.

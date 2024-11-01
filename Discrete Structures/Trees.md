@@ -1,0 +1,4 @@
+- Top vertex of a tree is called _root_
+- Bottom vertices are the _leaves_
+- _Child_ is the immediate descendant of a vertex
+- Vertices that share parent are called _siblings_

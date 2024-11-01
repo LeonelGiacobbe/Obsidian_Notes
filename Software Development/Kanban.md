@@ -1,0 +1,2 @@
+- Inspired by the way Toyota handles production 
+- Aims to streamline work and avoid bottlenecks

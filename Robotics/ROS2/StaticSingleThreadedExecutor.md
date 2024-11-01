@@ -1,0 +1,2 @@
+### IMPORTANT 
+The Static `SingleThreadedExecutor` should be used only with nodes that create all subscriptions, timers, etc. during initialization, since it scans for the structure of a node only once, while [[MultiThreadedExecutor]] and [[SingleThreadedExecutor]] do so regularly while a Node is actively running
