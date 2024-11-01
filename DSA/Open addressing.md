@@ -7,5 +7,4 @@
 
 ### Quadrating probing
 >[!tip] `p(val,i) = (val mod TableSize + i^2) mod TableSize`
-- Keep track of how many probing attempts we've done already 
-- 
+- Keep track of how many probing attempts we've done already (`i`)
