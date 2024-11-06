@@ -20,7 +20,7 @@ tags:
 |[[Functions]]||
 |[[Logic Gates]]||
 |[[Functional Completeness]]||
-|[[Graphs]]||
+|[[obsidian_backup/Discrete Structures/Graphs]]||
 |[[Discrete Structures/Trees]]||
 |[[Computation]]||
 |[[Computational Models]]||
