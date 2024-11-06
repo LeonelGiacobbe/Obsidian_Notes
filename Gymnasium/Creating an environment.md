@@ -83,4 +83,36 @@ We can use options to, for example, not randomize the state of the agent and hav
 	- For example `action(left) = [-1.0,0.0,0.0]` move 1 in the negative x direction
 - Computes reward by comparing current state to goal state
 
+```python
+def step(self, action):
+        # Map the action (element of {0,1,2,3}) to the direction we walk in
+        direction = self._action_to_direction[action]
+        # We use `np.clip` to make sure we don't leave the grid bounds
+        self._agent_location = np.clip(
+            self._agent_location + direction, 0, self.size - 1
+        )
 
+        # An environment is completed if and only if the agent has reached the target
+        terminated = np.array_equal(self._agent_location, self._target_location)
+        truncated = False
+        reward = 1 if terminated else 0  # the agent is only reached at the end of the episode
+        observation = self._get_obs()
+        info = self._get_info()
+
+        return observation, reward, terminated, truncated, info
+```
+
+
+### Registering and making the environment
+Commonly done with `gymnasium.make("aaa/bbb/ccc)`
+In Gymnasium, environment IDs are created by the following format:
+- `namespace/env_name/version`
+	- `namespace` and `version` are optional, but recommended
+```python
+gym.register(
+    id="gymnasium_env/GridWorld-v0",
+    entry_point=GridWorldEnv,
+)
+```
+
+We can check if the environment was successfully registered using `gymnasium.pprint_registry()`
