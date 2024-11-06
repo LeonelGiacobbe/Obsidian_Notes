@@ -17,7 +17,7 @@ import gymnasium as gym
 import numpy as np
 
 
-class myEnv(self):
+class myEnv(gym.Env):
 
 	def __init__(self):
 		self.observation_space = gym.spaces.Dict(
