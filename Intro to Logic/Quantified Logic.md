@@ -22,7 +22,6 @@ Rx: ___ is a reptile
 Ax: ___ is an alligator
 Lxy: ___ loves ___
 Mx: ___ is a monkey
-
 -
 (Za & Zb) & Zc ---> Amos, Bouncer and Cleo all live at the zoo
 (Rb & $\neg$ Ab) --> Bouncer is a reptile but not an alligator
