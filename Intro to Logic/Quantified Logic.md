@@ -5,7 +5,7 @@
 # Symbols 
 - $\forall$ x : for all x
 - $\exists$x : there is at least one x
-	- We can also negate this quantifier, meaning there does not exist at least one of these
+	- We can also negate this quantifier, meaning there does not exist an `x`
 
 ### Application examples
 P : ___ is a professor
