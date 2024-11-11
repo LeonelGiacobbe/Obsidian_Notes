@@ -2,10 +2,16 @@
 - `Px` the predicate `P` applies to `x`
 	- Cannot exist by itself
 
+### Well Formed Formulas
+- An atomic formula is a well formed sentence
+- if $\phi$ and $x$ is a wff, then $\forall_x$ $\phi_x$ and $\exists_x$ $\phi_x$
+- 
+
 # Symbols 
 - $\forall$ x : for all x
 - $\exists$x : there is at least one x
 	- We can also negate this quantifier, meaning there does not exist an `x`
+- `a = b`: identity claim. Read as `a` is `b`
 
 ### Application examples
 P : ___ is a professor
