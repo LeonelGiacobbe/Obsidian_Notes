@@ -1,0 +1,4 @@
+- `P` problems are solvable in polynomial time
+- `NP` problems: the time complexity of a solution is known but the solution itself is not
+	- `NP COMPLETE`: 
+	- `NP HARD`:

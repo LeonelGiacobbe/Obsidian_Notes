@@ -11,7 +11,8 @@ Use nodes, like [[Trees]]
 	- If there is an edge from `A` to `B`, then entry `[A][B] = 1`
 	- Instead of one and zero, it could store the weight of the edge, with a known value signifying the edge does not exist.
 
-### Adjacency List
+### Algorithms
+- Prim's: Gradually builds tree. `O(m + nlogn)`
 - 
 ### Terminology 
 - `In-degree`: amount of edges coming into a node
