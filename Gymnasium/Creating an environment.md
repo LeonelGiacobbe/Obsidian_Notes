@@ -79,7 +79,7 @@ We can use options to, for example, not randomize the state of the agent and hav
 ### Step
 - Takes an action as a parameter and calculates the state of the environment after executing that action.
 - Returns the tuple `(next obs, reward, terminated?, truncated?, aux info)`
-- Usually want to map the discrete actions declared in the constructor to cartesian or angular movement on our nD grid.
+- Usually want to map the discrete actions declared in the constructor to cartesian or angular movement on our n-dimensional grid.
 	- For example `action(left) = [-1.0,0.0,0.0]` move 1 in the negative x direction
 - Computes reward by comparing current state to goal state
 
