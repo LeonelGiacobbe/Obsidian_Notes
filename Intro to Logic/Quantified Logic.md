@@ -13,7 +13,24 @@
 	- We can also negate this quantifier, meaning there does not exist an `x`
 - `a = b`: identity claim. Read as `a` is `b`
 
-### Application examples
+# Application examples
+
+### "At least"
+$\exists$x, $\exists$y (Fx & Fy & x $\neq$ y)
+
+### "At most"
+One: $\forall$ x , $\forall$ y [(Fx & Fy) -> (x=y)]
+"If Fx and Fy are true, then x is equal to y (they are the same object)"
+- Can chain equality statements with disjunction. `x = y v y = z v x = z ...`
+
+### Exactly how many
+Only one: $\exists$x (Fx & $\neg$ Ey(Fy & x $\neq$ y))
+Two: $\exists$x, $\exists$y, (Fx & Fy & x $\neq$ y) & $\neg$ Ez (Fz & z $\neq$ x & z $\neq$ y)
+
+
+
+
+
 P : ___ is a professor
 D : ___ is a Duck
 s : Seth 
