@@ -1,4 +1,4 @@
-- Initialy thought impossible
+- Initially thought impossible
 - Now one of the most researched areas in Quantum Computing
 
 ### Fault Tolerance
