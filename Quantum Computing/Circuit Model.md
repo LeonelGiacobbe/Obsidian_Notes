@@ -1,4 +1,5 @@
 >READ TOP-DOWN, LEFT-RIGHT
+>Use https://algassert.com/quirk to design quantum circuits
 
 - For an n-qubit system, a quantum circuit is represented by a 2^n x 2^n unitary matrix
 - Must be reversable
@@ -7,6 +8,7 @@
 - Only represents combinational logic, not sequential
 
 
+>In real-world quantum computers, these gates are **APPROXIMATED**
 ### Single-qubit Gates
 -  A rotation by any amount in any direction is known as a `gate`
 - `Pauli` gates: rotates out qubit by $\pi$ radians around the x, y or z axis.
