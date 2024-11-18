@@ -2,7 +2,7 @@
 >Use https://algassert.com/quirk to design quantum circuits
 
 - For an n-qubit system, a quantum circuit is represented by a 2^n x 2^n unitary matrix
-- Must be reversable
+- Must be reversible
 	- Same number of inputs and outputs
 	- By knowing the output, we can work backwards and get the input
 - Only represents combinational logic, not sequential
