@@ -1,4 +1,4 @@
->READ TOP-DOWN, LEFT-RIGHT
+>	READ TOP-DOWN, LEFT-RIGHT
 >Use https://algassert.com/quirk to design quantum circuits
 
 - For an n-qubit system, a quantum circuit is represented by a 2^n x 2^n unitary matrix
