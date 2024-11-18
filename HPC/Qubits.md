@@ -18,4 +18,13 @@ What are the chances a photon passes through a polarized filter?
 - Returns 1 with a probability `|b|^2`
 	- Where `a` and `b` are the vertical and horizontal components mentioned in `Polarization of a photon`
 - Measured in terms of an orthogonal basis
+
 >An unknown quantum state cannot be reliably copied
+
+
+### Tensor product
+- Used to describe the combination of multiple qubits
+- If you have an `n-qubit` system, the quantum state of that qubit is `2^n`
+	- For a `2D` qubit, the quantum state will be 4-dimensional
+- Used for entangled states
+	- Way to measure if n qubits can be combined to produce a quantum state
