@@ -1,0 +1,1 @@
+For an n-qubit system, a quantum circuit is represented by a 2^n x 2^n unitary matrix
