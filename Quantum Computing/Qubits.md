@@ -28,3 +28,4 @@ What are the chances a photon passes through a polarized filter?
 	- For a `2D` qubit, the quantum state will be 4-dimensional
 - Used for entangled states
 	- Way to measure if n qubits can be combined to produce a quantum state
+	- Two qubits are entangled if they cant be factored into `|P>` $\oplus$ `|Q>` (see [[Notation]])
