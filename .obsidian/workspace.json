@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Vision/Computer Vision.md",
+                "file": "Systems Programming/Threads.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computer Vision"
+              "title": "Threads"
             }
           }
         ]
@@ -172,8 +172,13 @@
   },
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
-    "Intro to Logic/Quantified Logic.md",
+    "Systems Programming/Signals.md",
+    "Systems Programming/Threads.md",
+    "Systems Programming/Memory Mapping.md",
+    "Systems Programming/Interprocess Communications.md",
+    "Systems Programming/Processes.md",
     "Computer Vision/Computer Vision.md",
+    "Intro to Logic/Quantified Logic.md",
     "Computer Vision",
     "Algorithms",
     "Computer Organization",
