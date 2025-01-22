@@ -29,3 +29,16 @@
 - Image stitching/ merging
 - Exposure bracketing
 - Augmented reality
+
+### Challenges
+- Noisy / low resolution images
+- Real-time processing requirements
+- Ethical concerns and privacy issues
+- Adversarial attacks
+
+### Future Trends
+- Self-supervised training
+- Autonomous systems and augmented reality
+- Edge computing
+- Integration with LLMs
+- Healthcare imaging
