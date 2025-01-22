@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Vision/Digital Image Processing.md",
+                "file": "Systems Programming/Input Output.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Digital Image Processing"
+              "title": "Input Output"
             }
           }
         ]
@@ -172,8 +172,10 @@
   },
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
-    "Computer Vision/Images.md",
+    "Systems Programming/System Calls.md",
+    "Systems Programming/Input Output.md",
     "Computer Vision/Digital Image Processing.md",
+    "Computer Vision/Images.md",
     "Computer Vision/Computer Vision.md",
     "Computer Organization/Boolean Simplification.md",
     "Systems Programming/Threads.md",

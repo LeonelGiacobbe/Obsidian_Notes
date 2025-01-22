@@ -9,4 +9,7 @@
 		- Microscopy, lasers, biological imaging, and astronomy
 	- Visible / infrared:
 		- Acquired by our cameras and eyes. Presented as binary (1bit), grayscale (8bit), or color image(24 bit, 8 for R, G, B).
-- Spectral bands 
+	- Microwave band:
+		- Radar, military and environmental applications
+	- Radio band:
+		- Medical imaging and astronomy
