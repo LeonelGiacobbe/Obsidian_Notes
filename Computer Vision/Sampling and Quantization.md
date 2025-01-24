@@ -11,3 +11,4 @@
 
 ### Quantization
 - main factor determining the gray-level resolution of an image (bit depth)
+- Can induce false contouring (especially when gray-level resolution is 16 or lower)
