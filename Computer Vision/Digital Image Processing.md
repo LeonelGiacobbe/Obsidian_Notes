@@ -13,3 +13,5 @@
 		- Radar, military and environmental applications
 	- Radio band:
 		- Medical imaging and astronomy
+	- Ultrasound:
+		- Using pressure waves with a frequency greater than the upper limit of human hearing.
