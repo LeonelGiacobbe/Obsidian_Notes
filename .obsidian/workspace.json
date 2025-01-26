@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systems Programming/Input Output.md",
+                "file": "CodeForces & Leetcode/Hash Tables/Happy Number.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Input Output"
+              "title": "Happy Number"
             }
           }
         ]
@@ -172,15 +172,17 @@
   },
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
+    "CodeForces & Leetcode/Two Pointers/Longest Palindromic Sub-string.md",
+    "CodeForces & Leetcode/Hash Tables/Happy Number.md",
+    "CodeForces & Leetcode/Hash Tables",
+    "Systems Programming/Input Output.md",
     "Systems Programming/Interprocess Communications.md",
     "Systems Programming/Memory Mapping.md",
     "Systems Programming/Processes.md",
     "Systems Programming/Signals.md",
     "Systems Programming/System Calls.md",
     "Systems Programming/Threads.md",
-    "Systems Programming/Input Output.md",
     "CodeForces & Leetcode/Two Pointers/Remove Nth node from end of list.md",
-    "CodeForces & Leetcode/Two Pointers/Longest Palindromic Sub-string.md",
     "CodeForces & Leetcode/Find a Corresponding Node of a Binary Tree in a Clone of That Tree, N1739.md",
     "CodeForces & Leetcode/Invert Binary Tree.md",
     "CodeForces & Leetcode/Two Pointers",
@@ -201,9 +203,7 @@
     "Forces at various locations.md",
     "Excalidraw/Bicep Hold Drawing.md",
     "Excalidraw/Example Problem 12-3.md",
-    "Excalidraw/Drawing 2024-11-25 10.34.30.excalidraw.md",
     "Untitled 1.canvas",
-    "Quantum Computing/Error Mitigation.md",
     "Quantum Computing"
   ]
 }
