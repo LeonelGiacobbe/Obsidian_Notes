@@ -1,3 +1,3 @@
 
-- Creation of processes, pipes and communication channels
-- Processing I/O
+- Creation of [[Processes]], pipes and communication channels
+- Processing [[Input Output]]
