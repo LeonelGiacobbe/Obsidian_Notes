@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Vision/Up-sampling.md",
+                "file": "Algorithms/Asymptotic complexity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Up-sampling"
+              "title": "Asymptotic complexity"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
-    "Computer Vision/Interpolation.md",
+    "Algorithms/Asymptotic complexity.md",
     "Computer Vision/Up-sampling.md",
+    "Computer Vision/Interpolation.md",
     "Computer Vision/Low-pass Filters.md",
     "Computer Vision/Sampling and Quantization.md",
     "Computer Vision/Spatial Resolution and aliasing.md",
@@ -200,7 +201,6 @@
     "Computer Vision/Image formation.md",
     "Computer Vision/Images.md",
     "Computer Vision/Computer Vision.md",
-    "Computer Organization/Boolean Simplification.md",
     "Computer Vision",
     "Algorithms",
     "Computer Organization",
