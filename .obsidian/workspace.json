@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeForces & Leetcode/Sliding window/Longest Substring Without Repeating Characters.md",
+                "file": "Computer Organization/Multi Gates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Longest Substring Without Repeating Characters"
+              "title": "Multi Gates"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
-    "CodeForces & Leetcode/Hash Tables/Happy Number.md",
     "CodeForces & Leetcode/Sliding window/Longest Substring Without Repeating Characters.md",
+    "Computer Organization/Multi Gates.md",
+    "CodeForces & Leetcode/Hash Tables/Happy Number.md",
     "CodeForces & Leetcode/Sliding window",
     "CodeForces & Leetcode/Two Pointers/Longest Palindromic Sub-string.md",
     "CodeForces & Leetcode/Hash Tables",
@@ -204,7 +205,6 @@
     "Systems Programming",
     "Forces at various locations.md",
     "Excalidraw/Bicep Hold Drawing.md",
-    "Excalidraw/Example Problem 12-3.md",
     "Untitled 1.canvas",
     "Quantum Computing"
   ]
