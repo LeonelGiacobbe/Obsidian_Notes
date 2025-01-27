@@ -1,0 +1,2 @@
+- Used for Anti-aliasing
+- Remove high frequency content from original image, reducing the band width and making sure the sampling density is still above the critical sampling distance
