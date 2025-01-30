@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Master Theorem.md",
+                "file": "CodeForces & Leetcode/Trees/Path Sum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Master Theorem"
+              "title": "Path Sum"
             }
           }
         ]
@@ -166,13 +166,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
-    "Systems Programming/Memory Allocation.md",
+    "CodeForces & Leetcode/Two Pointers/Longest Palindromic Sub-string.md",
+    "CodeForces & Leetcode/Trees/Path Sum.md",
     "Algorithms/Master Theorem.md",
+    "CodeForces & Leetcode/Trees",
+    "Systems Programming/Memory Allocation.md",
     "Systems Programming/Realloc.md",
     "Systems Programming/Calloc.md",
     "Systems Programming/free.md",
@@ -191,14 +195,12 @@
     "CodeForces & Leetcode/Sliding window/Longest Substring Without Repeating Characters.md",
     "CodeForces & Leetcode/Hash Tables/Happy Number.md",
     "CodeForces & Leetcode/Sliding window",
-    "CodeForces & Leetcode/Two Pointers/Longest Palindromic Sub-string.md",
     "CodeForces & Leetcode/Hash Tables",
     "Systems Programming/Input Output.md",
     "Systems Programming/Interprocess Communications.md",
     "Systems Programming/Memory Mapping.md",
     "Systems Programming/Processes.md",
     "Systems Programming/Signals.md",
-    "Systems Programming/System Calls.md",
     "CodeForces & Leetcode/Two Pointers",
     "Computer Vision",
     "Algorithms",
