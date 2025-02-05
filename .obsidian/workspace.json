@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Vision/Spatial Domain enhancement.md",
+                "file": "CodeForces & Leetcode/Arrays/Jump Game.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spatial Domain enhancement"
+              "title": "Jump Game"
             }
           }
         ]
@@ -173,8 +173,15 @@
   },
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
-    "Computer Vision/Image Enhancement.md",
+    "CodeForces & Leetcode/Sliding window/Longest Substring Without Repeating Characters.md",
+    "CodeForces & Leetcode/Arrays/Jump Game.md",
+    "CodeForces & Leetcode/Hash Tables/Happy Number.md",
+    "CodeForces & Leetcode/Arrays",
+    "CodeForces & Leetcode/Untitled.md",
+    "Algorithms/Asymptotic complexity.md",
+    "Algorithms/Master Theorem.md",
     "Computer Vision/Spatial Domain enhancement.md",
+    "Computer Vision/Image Enhancement.md",
     "Computer Vision/Low-pass Filters.md",
     "Computer Vision/Spatial Resolution and aliasing.md",
     "Computer Vision/Sampling and Quantization.md",
@@ -190,16 +197,10 @@
     "Computer Vision/Computer Vision.md",
     "CodeForces & Leetcode/Two Pointers/Longest Palindromic Sub-string.md",
     "CodeForces & Leetcode/Trees/Path Sum.md",
-    "Algorithms/Master Theorem.md",
     "CodeForces & Leetcode/Trees",
     "Systems Programming/Memory Allocation.md",
     "Systems Programming/Realloc.md",
     "Systems Programming/Calloc.md",
-    "Systems Programming/free.md",
-    "Systems Programming/Malloc.md",
-    "Algorithms/Asymptotic complexity.md",
-    "Excalidraw/Bicep Hold Drawing.md",
-    "Computer Vision/Images.md",
     "CodeForces & Leetcode/Sliding window",
     "CodeForces & Leetcode/Hash Tables",
     "CodeForces & Leetcode/Two Pointers",
