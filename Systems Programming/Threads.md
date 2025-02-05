@@ -1,0 +1,4 @@
+- [[Processes]] can have multiple threads.
+- Set of processes that share the same virtual memory. Same heap, data area, etc.
+	- Possess a different place in the execution stacks
+	- Communicate via global variables and mechanisms.
