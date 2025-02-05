@@ -1,5 +1,5 @@
 >[!warning] 
->Environments should always inherit from gymnasium.Env
+>Environment classes should always inherit from gymnasium.Env
 
 In Gymnasium, there's  parts to a "game":
 - [[Observations]]: provides the location of our agent(s) and target(s)
