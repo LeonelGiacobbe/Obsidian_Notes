@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systems Programming/Processes.md",
+                "file": "CodeForces & Leetcode/Hash Tables/Group Anagrams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Processes"
+              "title": "Group Anagrams"
             }
           }
         ]
@@ -173,6 +173,9 @@
   },
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
+    "CodeForces & Leetcode/Hash Tables/Happy Number.md",
+    "CodeForces & Leetcode/Hash Tables/Group Anagrams.md",
+    "Systems Programming/Processes.md",
     "Computer Vision/Image Enhancement.md",
     "Computer Vision/Arithmetical and Logic Enhancement.md",
     "Software Development/Relational Databases.md",
@@ -180,7 +183,6 @@
     "Computer Vision/Spatial Domain enhancement.md",
     "CodeForces & Leetcode/Arrays/Jump Game.md",
     "CodeForces & Leetcode/Sliding window/Longest Substring Without Repeating Characters.md",
-    "CodeForces & Leetcode/Hash Tables/Happy Number.md",
     "CodeForces & Leetcode/Arrays",
     "CodeForces & Leetcode/Untitled.md",
     "Algorithms/Asymptotic complexity.md",
@@ -198,8 +200,6 @@
     "Computer Vision/Interpolation.md",
     "Computer Vision/Up-sampling.md",
     "Computer Vision/Computer Vision.md",
-    "CodeForces & Leetcode/Two Pointers/Longest Palindromic Sub-string.md",
-    "CodeForces & Leetcode/Trees/Path Sum.md",
     "CodeForces & Leetcode/Trees",
     "CodeForces & Leetcode/Sliding window",
     "CodeForces & Leetcode/Hash Tables",
