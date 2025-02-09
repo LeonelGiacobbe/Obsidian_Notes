@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeForces & Leetcode/Hash Tables/Group Anagrams.md",
+                "file": "CodeForces & Leetcode/Hash Tables/Longest Consecutive Sequence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Group Anagrams"
+              "title": "Longest Consecutive Sequence"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "50f9043efecfcb66",
@@ -173,6 +174,7 @@
   },
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
+    "CodeForces & Leetcode/Hash Tables/Longest Consecutive Sequence.md",
     "CodeForces & Leetcode/Hash Tables/Happy Number.md",
     "CodeForces & Leetcode/Hash Tables/Group Anagrams.md",
     "Systems Programming/Processes.md",
@@ -199,7 +201,6 @@
     "Systems Programming/Time.md",
     "Computer Vision/Interpolation.md",
     "Computer Vision/Up-sampling.md",
-    "Computer Vision/Computer Vision.md",
     "CodeForces & Leetcode/Trees",
     "CodeForces & Leetcode/Sliding window",
     "CodeForces & Leetcode/Hash Tables",
