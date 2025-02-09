@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeForces & Leetcode/Hash Tables/Longest Consecutive Sequence.md",
+                "file": "CodeForces & Leetcode/Two Pointers/Remove Duplicates from Sorted Array II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Longest Consecutive Sequence"
+              "title": "Remove Duplicates from Sorted Array II"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "50f9043efecfcb66",
@@ -174,6 +173,9 @@
   },
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
+    "CodeForces & Leetcode/Two Pointers/Longest Palindromic Sub-string.md",
+    "CodeForces & Leetcode/Two Pointers/Remove Duplicates from Sorted Array II.md",
+    "Systems Programming/Time.md",
     "CodeForces & Leetcode/Hash Tables/Longest Consecutive Sequence.md",
     "CodeForces & Leetcode/Hash Tables/Happy Number.md",
     "CodeForces & Leetcode/Hash Tables/Group Anagrams.md",
@@ -198,9 +200,6 @@
     "CodeForces & Leetcode/Two Pointers/Minimum size sub-array sum.md",
     "Systems Programming/Signals.md",
     "Systems Programming/directory and file calls.md",
-    "Systems Programming/Time.md",
-    "Computer Vision/Interpolation.md",
-    "Computer Vision/Up-sampling.md",
     "CodeForces & Leetcode/Trees",
     "CodeForces & Leetcode/Sliding window",
     "CodeForces & Leetcode/Hash Tables",
