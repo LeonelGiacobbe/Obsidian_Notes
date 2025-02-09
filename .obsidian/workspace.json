@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeForces & Leetcode/Two Pointers/Remove Duplicates from Sorted Array II.md",
+                "file": "CodeForces & Leetcode/Arrays/H-Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Remove Duplicates from Sorted Array II"
+              "title": "H-Index"
             }
           }
         ]
@@ -173,8 +173,10 @@
   },
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
-    "CodeForces & Leetcode/Two Pointers/Longest Palindromic Sub-string.md",
+    "CodeForces & Leetcode/Arrays/Jump Game.md",
+    "CodeForces & Leetcode/Arrays/H-Index.md",
     "CodeForces & Leetcode/Two Pointers/Remove Duplicates from Sorted Array II.md",
+    "CodeForces & Leetcode/Two Pointers/Longest Palindromic Sub-string.md",
     "Systems Programming/Time.md",
     "CodeForces & Leetcode/Hash Tables/Longest Consecutive Sequence.md",
     "CodeForces & Leetcode/Hash Tables/Happy Number.md",
@@ -185,7 +187,6 @@
     "Software Development/Relational Databases.md",
     "ne.md",
     "Computer Vision/Spatial Domain enhancement.md",
-    "CodeForces & Leetcode/Arrays/Jump Game.md",
     "CodeForces & Leetcode/Sliding window/Longest Substring Without Repeating Characters.md",
     "CodeForces & Leetcode/Arrays",
     "CodeForces & Leetcode/Untitled.md",
@@ -199,7 +200,6 @@
     "Gymnasium/Recording Agents.md",
     "CodeForces & Leetcode/Two Pointers/Minimum size sub-array sum.md",
     "Systems Programming/Signals.md",
-    "Systems Programming/directory and file calls.md",
     "CodeForces & Leetcode/Trees",
     "CodeForces & Leetcode/Sliding window",
     "CodeForces & Leetcode/Hash Tables",
