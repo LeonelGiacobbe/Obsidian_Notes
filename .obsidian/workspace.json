@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeForces & Leetcode/Arrays/H-Index.md",
+                "file": "Algorithms/Heap Sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "H-Index"
+              "title": "Heap Sort"
             }
           }
         ]
@@ -173,8 +173,10 @@
   },
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
-    "CodeForces & Leetcode/Arrays/Jump Game.md",
+    "Pasted image 20250210123838.png",
     "CodeForces & Leetcode/Arrays/H-Index.md",
+    "Algorithms/Heap Sort.md",
+    "CodeForces & Leetcode/Arrays/Jump Game.md",
     "CodeForces & Leetcode/Two Pointers/Remove Duplicates from Sorted Array II.md",
     "CodeForces & Leetcode/Two Pointers/Longest Palindromic Sub-string.md",
     "Systems Programming/Time.md",
@@ -198,8 +200,6 @@
     "Systems Programming/Blocking Signals.md",
     "Gymnasium/Training an agent.md",
     "Gymnasium/Recording Agents.md",
-    "CodeForces & Leetcode/Two Pointers/Minimum size sub-array sum.md",
-    "Systems Programming/Signals.md",
     "CodeForces & Leetcode/Trees",
     "CodeForces & Leetcode/Sliding window",
     "CodeForces & Leetcode/Hash Tables",
