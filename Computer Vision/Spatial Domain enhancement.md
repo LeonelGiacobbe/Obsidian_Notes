@@ -1,7 +1,7 @@
 Method of [[Image Enhancement]]
 - Use a 2-dimension image plane
 	- Manipulation directly on pixels
-	- `g(x,y) = T[f(f,y)]`
+	- `g(x,y) = T[f(x,y)]`
 	- `f` is input image, `g` is output image
 	- `T` is the operator on `f`
 	- `(x,y)`pixel has a neighborhood, a set of surrounding pixels around a center.
