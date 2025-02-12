@@ -30,3 +30,9 @@ Method of [[Image Enhancement]]
 	- Normalized to [0,1] before applying the transformation
 	- Achieved with a transformation function `T(r)`, defined as the _Cumulative Distribution Function_ (CDF) of a _probability density function_ (PDF)
 	- After the transformation, all gray level values are spread out across the full range
+
+### Spatial Filtering
+- We have a main image and a few sub-images
+- Works with a neighborhood of pixels that correspond to the same location in all images
+- Applies the mask to the original image and the kernel
+- Computes pixel by pixel values between the original and mask locations and outputs a single value by taking the summation of all the previous computations
