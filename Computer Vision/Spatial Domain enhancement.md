@@ -33,6 +33,12 @@ Method of [[Image Enhancement]]
 
 ### Spatial Filtering
 - We have a main image and a few sub-images
+- Also known as `convolution`, and the filter mask is known as `convolution mask`
 - Works with a neighborhood of pixels that correspond to the same location in all images
 - Applies the mask to the original image and the kernel
-- Computes pixel by pixel values between the original and mask locations and outputs a single value by taking the summation of all the previous computations
+- Computes pixel-wise multiplication and outputs a single value by taking the summation of all the previous multiplications.
+	- `RESULT = w1z1 + w2z2 + w3z3 ...` where `w` is the mask's coefficient and `z` is the original image's pixel values
+### Smoothing filters
+- Reduces the noise and blurs image
+- Response is the average of the pixels in the neighborhood mask
+- Replaces the pixel value by the average of the gray-levels defined by the filter mask
