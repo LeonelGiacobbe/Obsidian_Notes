@@ -1,0 +1,1 @@
+- Similar to _Reinforcement Learning_ but instead of using a reward function, you provide the model with expert demonstrations of a task being accomplished
