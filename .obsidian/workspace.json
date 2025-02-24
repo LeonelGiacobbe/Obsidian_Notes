@@ -171,8 +171,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c3cff92561cbf5a4",
+  "active": "55fc4f706d66e47a",
   "lastOpenFiles": [
+    "Dr. Sun Research/Imitation Learning.md",
+    "Dr. Sun Research",
     "Algorithms/Counting Sort.md",
     "Algorithms/Radix Sort.md",
     "Algorithms/Bucket Sort.md",
@@ -200,7 +202,6 @@
     "CodeForces & Leetcode/Sliding window/Longest Substring Without Repeating Characters.md",
     "CodeForces & Leetcode/Arrays",
     "CodeForces & Leetcode/Untitled.md",
-    "Algorithms/Asymptotic complexity.md",
     "CodeForces & Leetcode/Trees",
     "CodeForces & Leetcode/Sliding window",
     "CodeForces & Leetcode/Hash Tables",
@@ -209,7 +210,6 @@
     "Algorithms",
     "Computer Organization",
     "Systems Programming",
-    "Untitled 1.canvas",
-    "Quantum Computing"
+    "Untitled 1.canvas"
   ]
 }
