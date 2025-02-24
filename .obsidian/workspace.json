@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Vision/Spatial Domain enhancement.md",
+                "file": "Algorithms/Radix Sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spatial Domain enhancement"
+              "title": "Radix Sort"
             }
           }
         ]
@@ -173,8 +173,14 @@
   },
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
-    "Computer Vision/Sampling and Quantization.md",
+    "Algorithms/Counting Sort.md",
+    "Algorithms/Radix Sort.md",
+    "Algorithms/Bucket Sort.md",
+    "Computer Vision/Sharpening Spatial Filters.md",
     "Computer Vision/Spatial Domain enhancement.md",
+    "Computer Vision/Order-Statistics Filters.md",
+    "Algorithms/Untitled.md",
+    "Computer Vision/Sampling and Quantization.md",
     "Computer Vision/Arithmetical and Logic Enhancement.md",
     "Computer Vision/Image Enhancement.md",
     "Computer Vision/Digital Image Processing.md",
@@ -195,12 +201,6 @@
     "CodeForces & Leetcode/Arrays",
     "CodeForces & Leetcode/Untitled.md",
     "Algorithms/Asymptotic complexity.md",
-    "Algorithms/Master Theorem.md",
-    "Computer Vision/Low-pass Filters.md",
-    "Computer Vision/Spatial Resolution and aliasing.md",
-    "Systems Programming/Blocking Signals.md",
-    "Gymnasium/Training an agent.md",
-    "Gymnasium/Recording Agents.md",
     "CodeForces & Leetcode/Trees",
     "CodeForces & Leetcode/Sliding window",
     "CodeForces & Leetcode/Hash Tables",

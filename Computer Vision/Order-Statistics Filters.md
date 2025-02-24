@@ -1,0 +1,3 @@
+- Nonlinear filter
+- Also called _median filter_
+- Great for random noise reduction, significantly less blur than linear filters
