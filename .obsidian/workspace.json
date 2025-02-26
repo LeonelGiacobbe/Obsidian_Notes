@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Heap Sort.md",
+                "file": "Computer Vision/Fourier Transforms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Heap Sort"
+              "title": "Fourier Transforms"
             }
           }
         ]
@@ -173,6 +173,9 @@
   },
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
+    "Computer Vision/Frequency Domain Enhancement.md",
+    "Computer Vision/Fourier Transforms.md",
+    "Algorithms/Heap Sort.md",
     "Algorithms/Radix Sort.md",
     "Dr. Sun Research/Imitation Learning.md",
     "Dr. Sun Research",
@@ -186,7 +189,6 @@
     "Computer Vision/Arithmetical and Logic Enhancement.md",
     "Computer Vision/Image Enhancement.md",
     "Computer Vision/Digital Image Processing.md",
-    "Algorithms/Heap Sort.md",
     "Pasted image 20250210123838.png",
     "CodeForces & Leetcode/Arrays/H-Index.md",
     "CodeForces & Leetcode/Arrays/Jump Game.md",
@@ -199,9 +201,7 @@
     "Systems Programming/Processes.md",
     "Software Development/Relational Databases.md",
     "ne.md",
-    "CodeForces & Leetcode/Sliding window/Longest Substring Without Repeating Characters.md",
     "CodeForces & Leetcode/Arrays",
-    "CodeForces & Leetcode/Untitled.md",
     "CodeForces & Leetcode/Trees",
     "CodeForces & Leetcode/Sliding window",
     "CodeForces & Leetcode/Hash Tables",
