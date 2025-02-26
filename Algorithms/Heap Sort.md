@@ -21,4 +21,4 @@ for i = A.length down to 2
 - ![[Pasted image 20250210123838.png]]
 
 
-### Exercuse
+### Exercise
