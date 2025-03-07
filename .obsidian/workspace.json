@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Asymptotic complexity.md",
+                "file": "Computer Vision/Image Restoration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Asymptotic complexity"
+              "title": "Image Restoration"
             }
           }
         ]
@@ -167,11 +167,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
+    "Algorithms/Asymptotic complexity.md",
+    "Computer Vision/Image Restoration.md",
     "Computer Vision/Discrete fourier transforms.md",
     "Computer Vision/Fourier Transforms.md",
     "Computer Vision/Frequency Domain Enhancement.md",
@@ -198,8 +201,6 @@
     "CodeForces & Leetcode/Hash Tables/Longest Consecutive Sequence.md",
     "CodeForces & Leetcode/Hash Tables/Happy Number.md",
     "CodeForces & Leetcode/Hash Tables/Group Anagrams.md",
-    "Systems Programming/Processes.md",
-    "Software Development/Relational Databases.md",
     "CodeForces & Leetcode/Arrays",
     "CodeForces & Leetcode/Trees",
     "CodeForces & Leetcode/Sliding window",
