@@ -32,3 +32,20 @@
 ### Midpoint filters
 - Each pixel is defined as half of the addition of the min and max values of the sub-image at that location
 - Can be applied multiple times to improve performance
+
+### Adaptive Median Filter
+- removes impulse noise with very high probability
+- Noisy pixel is replaced by median value in sub-image
+
+# Band Filters
+### Reject
+- Rejects a specific band of frequencies in an image
+
+### Pass
+- Opposite of reject
+- Useful to get the noise image that corrupted an original image
+
+### Notch
+- Rejects or passes frequencies based on the frequency distance from the center frequency
+	- If pixel's frequency is lower than low limit or higher than high limit, pixel gets rejected
+- There's formulas to find the ideal distances to use
