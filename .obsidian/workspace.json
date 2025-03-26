@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Vision/Arithmetical and Logic Enhancement.md",
+                "file": "Computer Vision/Denoising in the Wavelet Domain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arithmetical and Logic Enhancement"
+              "title": "Denoising in the Wavelet Domain"
             }
           }
         ]
@@ -173,6 +173,9 @@
   },
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
+    "Algorithms/Minimum Spanning Trees.md",
+    "Computer Vision/Denoising in the Wavelet Domain.md",
+    "Computer Vision/Arithmetical and Logic Enhancement.md",
     "Computer Vision/Image Restoration.md",
     "Algorithms/Asymptotic complexity.md",
     "Computer Vision/Discrete fourier transforms.md",
@@ -189,7 +192,6 @@
     "Computer Vision/Order-Statistics Filters.md",
     "Algorithms/Untitled.md",
     "Computer Vision/Sampling and Quantization.md",
-    "Computer Vision/Arithmetical and Logic Enhancement.md",
     "Computer Vision/Image Enhancement.md",
     "Computer Vision/Digital Image Processing.md",
     "Pasted image 20250210123838.png",
@@ -199,8 +201,6 @@
     "CodeForces & Leetcode/Two Pointers/Longest Palindromic Sub-string.md",
     "Systems Programming/Time.md",
     "CodeForces & Leetcode/Hash Tables/Longest Consecutive Sequence.md",
-    "CodeForces & Leetcode/Hash Tables/Happy Number.md",
-    "CodeForces & Leetcode/Hash Tables/Group Anagrams.md",
     "CodeForces & Leetcode/Arrays",
     "CodeForces & Leetcode/Trees",
     "CodeForces & Leetcode/Sliding window",
