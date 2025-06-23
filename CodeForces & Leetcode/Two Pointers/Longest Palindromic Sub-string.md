@@ -17,7 +17,7 @@ Link: https://leetcode.com/problems/longest-palindromic-substring/
 		l, r = i, i
 		
 		  
-		
+		# Checks for odd-length palindromes (l and r start from same letter)
 		while (l >= 0 and r < len(s) and s[l] == s[r]):
 		
 			if (r - l + 1 > length):
@@ -29,11 +29,11 @@ Link: https://leetcode.com/problems/longest-palindromic-substring/
 			r += 1
 			
 			l -= 1
-		
+		# Set l and r pointers to consecutive letters to test even length
 		l, r = i, i + 1
 	
 	  
-	
+	# Do the same check as before, but now with l and r being consecutive
 	while (l >= 0 and r < len(s) and s[l] == s[r]):
 	
 		if (r - l + 1 > length):

@@ -28,7 +28,7 @@ class Solution:
 		
 				l += 1
 		
-		letters.add(s[r])
+			letters.add(s[r])
 	
 		res = max(res, r - l + 1)	
 		
