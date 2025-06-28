@@ -5,7 +5,7 @@ Link: https://leetcode.com/problems/clone-graph/
 - Use DFS and a hash map
 	- Hash map is used to avoid cloning the same node twice
 - For every node, make a copy of it (if not already done). Map original to copy in hash map. 
-- Iterate over the [[og]] node's neighbors and append dfs(neighbor) to the list of the copy's neighbors
+- Iterate over the og node's neighbors and append dfs(neighbor) to the list of the copy's neighbors
 
 ### Optimal Code:
 ```python
