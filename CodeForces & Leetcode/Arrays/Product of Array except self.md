@@ -1,9 +1,10 @@
 Link: https://leetcode.com/problems/product-of-array-except-self/
 
 ### Keys to solve:
-- Build two subarrays, left and right
+- Build two sub-arrays, left and right
 	- At each index of those arrays, the element is the product of all elements left and right of that position in the original array
 - By using iterators i and j, we only need to pass once. i is regular increasing, `j = -i - 1`, so they start at the end points and move opposite each other
+- for right array, use j as the index, since we're populating it backwards
 ### Solution
 ```python
 class Solution:
