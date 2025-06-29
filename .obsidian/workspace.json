@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeForces & Leetcode/Trees/Same Tree.md",
+                "file": "CodeForces & Leetcode/Linked Lists/Merge K Sorted Lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Same Tree"
+              "title": "Merge K Sorted Lists"
             }
           }
         ]
@@ -173,8 +173,8 @@
   },
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
-    "CodeForces & Leetcode/Arrays/Product of Array except self.md",
     "CodeForces & Leetcode/Trees/Same Tree.md",
+    "CodeForces & Leetcode/Arrays/Product of Array except self.md",
     "CodeForces & Leetcode/Trees/Maximum length of binary tree.md",
     "CodeForces & Leetcode/Arrays/Combination sum.md",
     "CodeForces & Leetcode/Arrays/Search in rotated sorted array.md",
