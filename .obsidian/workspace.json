@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeForces & Leetcode/Arrays/Pacific Atlantic Water Flow.md",
+                "file": "CodeForces & Leetcode/Arrays/Combination sum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pacific Atlantic Water Flow"
+              "title": "Combination sum"
             }
           }
         ]
@@ -173,13 +173,15 @@
   },
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
-    "CodeForces & Leetcode/Linked Lists/Add two numbers.md",
+    "CodeForces & Leetcode/Arrays/Search in rotated sorted array.md",
+    "CodeForces & Leetcode/Arrays/Combination sum.md",
+    "CodeForces & Leetcode/Arrays/Find Min in rotated sorted array.md",
+    "CodeForces & Leetcode/Arrays/Longest Consecutive Sequence.md",
     "CodeForces & Leetcode/Arrays/Pacific Atlantic Water Flow.md",
+    "CodeForces & Leetcode/Linked Lists/Add two numbers.md",
     "CodeForces & Leetcode/Graphs/Clone Graph.md",
     "og.md",
     "CodeForces & Leetcode/Arrays/Missing Number.md",
-    "CodeForces & Leetcode/Arrays/Search in rotated sorted array.md",
-    "CodeForces & Leetcode/Arrays/Find Min in rotated sorted array.md",
     "CodeForces & Leetcode/Sliding window/Find Repeated DNA Sequences.md",
     "CodeForces & Leetcode/Linked Lists/Merge K Sorted Lists.md",
     "CodeForces & Leetcode/Two Pointers/Reorder List.md",
@@ -201,8 +203,6 @@
     "Dr. Sun Research/Imitation Learning.md",
     "Dr. Sun Research/LeTac-MPC Notes.md",
     "Computer Vision/Feature Detection and Matching.md",
-    "Computer Vision/Deep Learning Methods.md",
-    "Algorithms/Knapsack.md",
     "Dr. Sun Research",
     "Pasted image 20250210123838.png",
     "CodeForces & Leetcode/Arrays",
