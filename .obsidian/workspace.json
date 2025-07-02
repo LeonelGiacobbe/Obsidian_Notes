@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeForces & Leetcode/Linked Lists/Merge K Sorted Lists.md",
+                "file": "CodeForces & Leetcode/Arrays/Find first and last position of element in sorted array.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Merge K Sorted Lists"
+              "title": "Find first and last position of element in sorted array"
             }
           }
         ]
@@ -173,6 +173,11 @@
   },
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
+    "CodeForces & Leetcode/Arrays/Merge Intervals.md",
+    "CodeForces & Leetcode/Arrays/Find first and last position of element in sorted array.md",
+    "CodeForces & Leetcode/Two Pointers/Reorder List.md",
+    "CodeForces & Leetcode/Sliding window/Find Repeated DNA Sequences.md",
+    "CodeForces & Leetcode/Linked Lists/Merge K Sorted Lists.md",
     "CodeForces & Leetcode/Trees/Same Tree.md",
     "CodeForces & Leetcode/Arrays/Product of Array except self.md",
     "CodeForces & Leetcode/Trees/Maximum length of binary tree.md",
@@ -185,9 +190,6 @@
     "CodeForces & Leetcode/Graphs/Clone Graph.md",
     "og.md",
     "CodeForces & Leetcode/Arrays/Missing Number.md",
-    "CodeForces & Leetcode/Sliding window/Find Repeated DNA Sequences.md",
-    "CodeForces & Leetcode/Linked Lists/Merge K Sorted Lists.md",
-    "CodeForces & Leetcode/Two Pointers/Reorder List.md",
     "CodeForces & Leetcode/Linked Lists",
     "CodeForces & Leetcode/Two Pointers/Delete the Middle Node of a Linked List.md",
     "CodeForces & Leetcode/Sliding window/Longest Substring Without Repeating Characters.md",
@@ -201,8 +203,6 @@
     "CodeForces & Leetcode/Ransom Note.md",
     "CodeForces & Leetcode/Graphs",
     "CodeForces & Leetcode/Untitled.md",
-    "CodeForces & Leetcode/Two Pointers/Longest Palindromic Sub-string.md",
-    "Dr. Sun Research/Imitation Learning.md",
     "Dr. Sun Research",
     "Pasted image 20250210123838.png",
     "CodeForces & Leetcode/Arrays",
