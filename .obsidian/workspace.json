@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeForces & Leetcode/Dynamic Programming/Counting Bits.md",
+                "file": "CodeForces & Leetcode/Trees/Serialize and deserialize a binary tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Counting Bits"
+              "title": "Serialize and deserialize a binary tree"
             }
           }
         ]
@@ -173,8 +173,9 @@
   },
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
-    "CodeForces & Leetcode/Arrays/Top K frequent elements.md",
     "CodeForces & Leetcode/Dynamic Programming/Counting Bits.md",
+    "CodeForces & Leetcode/Trees/Serialize and deserialize a binary tree.md",
+    "CodeForces & Leetcode/Arrays/Top K frequent elements.md",
     "CodeForces & Leetcode/Arrays/Find Length of longest common prefix.md",
     "CodeForces & Leetcode/Arrays/Find first and last position of element in sorted array.md",
     "CodeForces & Leetcode/Arrays/Merge Intervals.md",
@@ -199,7 +200,6 @@
     "CodeForces & Leetcode/Arrays/H-Index.md",
     "CodeForces & Leetcode/Arrays/Jump Game.md",
     "CodeForces & Leetcode/Dynamic Programming/Word Break.md",
-    "CodeForces & Leetcode/Two Pointers/Palindromic Substrings.md",
     "CodeForces & Leetcode/Dynamic Programming",
     "Pasted image 20250621121517.png",
     "CodeForces & Leetcode/Graphs",
