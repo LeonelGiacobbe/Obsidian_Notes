@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeForces & Leetcode/Arrays/Find Length of longest common prefix.md",
+                "file": "CodeForces & Leetcode/Arrays/Top K frequent elements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Find Length of longest common prefix"
+              "title": "Top K frequent elements"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "longest common",
+                "query": "top k frequent ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,6 +174,7 @@
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
     "CodeForces & Leetcode/Arrays/Find Length of longest common prefix.md",
+    "CodeForces & Leetcode/Arrays/Top K frequent elements.md",
     "CodeForces & Leetcode/Arrays/Find first and last position of element in sorted array.md",
     "CodeForces & Leetcode/Arrays/Merge Intervals.md",
     "CodeForces & Leetcode/Two Pointers/Reorder List.md",
@@ -201,7 +202,6 @@
     "CodeForces & Leetcode/Dynamic Programming",
     "CodeForces & Leetcode/Two Pointers/Minimum size sub-array sum.md",
     "Pasted image 20250621121517.png",
-    "CodeForces & Leetcode/Ransom Note.md",
     "CodeForces & Leetcode/Graphs",
     "Dr. Sun Research",
     "Pasted image 20250210123838.png",
