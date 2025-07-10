@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeForces & Leetcode/Greedy/Non-overlapping Intervals.md",
+                "file": "CodeForces & Leetcode/Arrays/Maximum Subarray.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Non-overlapping Intervals"
+              "title": "Maximum Subarray"
             }
           }
         ]
@@ -173,8 +173,8 @@
   },
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
-    "CodeForces & Leetcode/Arrays/Merge Intervals.md",
     "CodeForces & Leetcode/Greedy/Non-overlapping Intervals.md",
+    "CodeForces & Leetcode/Arrays/Merge Intervals.md",
     "CodeForces & Leetcode/Greedy",
     "CodeForces & Leetcode/Arrays/Maximum Subarray.md",
     "CodeForces & Leetcode/Two Pointers/Reorder List.md",
