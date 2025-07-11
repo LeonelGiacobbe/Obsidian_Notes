@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeForces & Leetcode/Arrays/Maximum Subarray.md",
+                "file": "CodeForces & Leetcode/Arrays/Insert Interval.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maximum Subarray"
+              "title": "Insert Interval"
             }
           }
         ]
@@ -173,10 +173,11 @@
   },
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
-    "CodeForces & Leetcode/Greedy/Non-overlapping Intervals.md",
     "CodeForces & Leetcode/Arrays/Merge Intervals.md",
-    "CodeForces & Leetcode/Greedy",
+    "CodeForces & Leetcode/Arrays/Insert Interval.md",
     "CodeForces & Leetcode/Arrays/Maximum Subarray.md",
+    "CodeForces & Leetcode/Greedy/Non-overlapping Intervals.md",
+    "CodeForces & Leetcode/Greedy",
     "CodeForces & Leetcode/Two Pointers/Reorder List.md",
     "CodeForces & Leetcode/Two Pointers/Palindromic Substrings.md",
     "CodeForces & Leetcode/Arrays/Search in rotated sorted array.md",
@@ -200,7 +201,6 @@
     "CodeForces & Leetcode/Arrays/Missing Number.md",
     "CodeForces & Leetcode/Linked Lists",
     "CodeForces & Leetcode/Two Pointers/Delete the Middle Node of a Linked List.md",
-    "CodeForces & Leetcode/Sliding window/Longest Substring Without Repeating Characters.md",
     "CodeForces & Leetcode/Dynamic Programming",
     "Pasted image 20250621121517.png",
     "CodeForces & Leetcode/Graphs",
