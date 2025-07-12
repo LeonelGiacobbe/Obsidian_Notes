@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeForces & Leetcode/Arrays/Insert Interval.md",
+                "file": "CodeForces & Leetcode/Two Pointers/Find Median from Data Stream.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Insert Interval"
+              "title": "Find Median from Data Stream"
             }
           }
         ]
@@ -173,8 +173,9 @@
   },
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
-    "CodeForces & Leetcode/Arrays/Merge Intervals.md",
     "CodeForces & Leetcode/Arrays/Insert Interval.md",
+    "CodeForces & Leetcode/Two Pointers/Find Median from Data Stream.md",
+    "CodeForces & Leetcode/Arrays/Merge Intervals.md",
     "CodeForces & Leetcode/Arrays/Maximum Subarray.md",
     "CodeForces & Leetcode/Greedy/Non-overlapping Intervals.md",
     "CodeForces & Leetcode/Greedy",
@@ -200,7 +201,6 @@
     "og.md",
     "CodeForces & Leetcode/Arrays/Missing Number.md",
     "CodeForces & Leetcode/Linked Lists",
-    "CodeForces & Leetcode/Two Pointers/Delete the Middle Node of a Linked List.md",
     "CodeForces & Leetcode/Dynamic Programming",
     "Pasted image 20250621121517.png",
     "CodeForces & Leetcode/Graphs",
