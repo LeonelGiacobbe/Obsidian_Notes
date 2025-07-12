@@ -21,7 +21,10 @@ class Solution:
         res = 0
 
         for i in range(1, len(intervals)):
+	        # high end of prev > low end of curr
             if intervals[prev][1] > intervals[i][0]:
+	            # high end of prev > high end of curr, keep curr as prev
+                # Since it has the smallest big value
                 if intervals[prev][1] > intervals[i][1]:
                     prev = i
                 res += 1
