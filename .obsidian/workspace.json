@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeForces & Leetcode/Greedy/Non-overlapping Intervals.md",
+                "file": "CodeForces & Leetcode/Hash Tables/Group Anagrams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Non-overlapping Intervals"
+              "title": "Group Anagrams"
             }
           }
         ]
@@ -173,11 +173,14 @@
   },
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
+    "CodeForces & Leetcode/Hash Tables/Longest Consecutive Sequence.md",
+    "CodeForces & Leetcode/Hash Tables/Happy Number.md",
+    "CodeForces & Leetcode/Graphs/Clone Graph.md",
+    "CodeForces & Leetcode/Greedy/Non-overlapping Intervals.md",
     "CodeForces & Leetcode/Two Pointers/Find Median from Data Stream.md",
     "CodeForces & Leetcode/Arrays/Insert Interval.md",
     "CodeForces & Leetcode/Arrays/Merge Intervals.md",
     "CodeForces & Leetcode/Arrays/Maximum Subarray.md",
-    "CodeForces & Leetcode/Greedy/Non-overlapping Intervals.md",
     "CodeForces & Leetcode/Greedy",
     "CodeForces & Leetcode/Two Pointers/Reorder List.md",
     "CodeForces & Leetcode/Two Pointers/Palindromic Substrings.md",
@@ -197,9 +200,6 @@
     "CodeForces & Leetcode/Arrays/Longest Consecutive Sequence.md",
     "CodeForces & Leetcode/Arrays/Pacific Atlantic Water Flow.md",
     "CodeForces & Leetcode/Linked Lists/Add two numbers.md",
-    "CodeForces & Leetcode/Graphs/Clone Graph.md",
-    "og.md",
-    "CodeForces & Leetcode/Arrays/Missing Number.md",
     "CodeForces & Leetcode/Linked Lists",
     "CodeForces & Leetcode/Dynamic Programming",
     "Pasted image 20250621121517.png",
