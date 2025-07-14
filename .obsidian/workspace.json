@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeForces & Leetcode/Hash Tables/Group Anagrams.md",
+                "file": "CodeForces & Leetcode/Dynamic Programming/Longest Increasing Subsequence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Group Anagrams"
+              "title": "Longest Increasing Subsequence"
             }
           }
         ]
@@ -173,6 +173,8 @@
   },
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
+    "CodeForces & Leetcode/Hash Tables/Group Anagrams.md",
+    "CodeForces & Leetcode/Dynamic Programming/Longest Increasing Subsequence.md",
     "CodeForces & Leetcode/Hash Tables/Longest Consecutive Sequence.md",
     "CodeForces & Leetcode/Hash Tables/Happy Number.md",
     "CodeForces & Leetcode/Graphs/Clone Graph.md",
@@ -198,8 +200,6 @@
     "CodeForces & Leetcode/Arrays/Combination sum.md",
     "CodeForces & Leetcode/Arrays/Find Min in rotated sorted array.md",
     "CodeForces & Leetcode/Arrays/Longest Consecutive Sequence.md",
-    "CodeForces & Leetcode/Arrays/Pacific Atlantic Water Flow.md",
-    "CodeForces & Leetcode/Linked Lists/Add two numbers.md",
     "CodeForces & Leetcode/Linked Lists",
     "CodeForces & Leetcode/Dynamic Programming",
     "Pasted image 20250621121517.png",
