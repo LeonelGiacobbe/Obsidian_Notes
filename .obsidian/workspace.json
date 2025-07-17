@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeForces & Leetcode/Hash Tables/Group Anagrams.md",
+                "file": "CodeForces & Leetcode/Root Equals sum of Children, N2236.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Group Anagrams"
+              "title": "Root Equals sum of Children, N2236"
             }
           }
         ]
@@ -173,10 +173,10 @@
   },
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
+    "CodeForces & Leetcode/Hash Tables/Group Anagrams.md",
     "CodeForces & Leetcode/Dynamic Programming/Longest Increasing Subsequence.md",
     "CodeForces & Leetcode/Dynamic Programming/Word Break.md",
     "CodeForces & Leetcode/Arrays/Rotate Image.md",
-    "CodeForces & Leetcode/Hash Tables/Group Anagrams.md",
     "CodeForces & Leetcode/Hash Tables/Longest Consecutive Sequence.md",
     "CodeForces & Leetcode/Hash Tables/Happy Number.md",
     "CodeForces & Leetcode/Graphs/Clone Graph.md",
