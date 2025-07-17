@@ -1,4 +1,4 @@
-Link: https://leetcode.com/problems/longest-increasing-subsequence/
+	Link: https://leetcode.com/problems/longest-increasing-subsequence/
 
 ### Keys to solve
 - make a new array `longest` of the same size as `nums` and populate it with ones. The reason for this is we start with the assumption that, if we end the subsequence with the element at `i`, then the length of that subsequence will be at least one (the number itself).

@@ -16,7 +16,7 @@ class Solution:
 	
 	words = { }
 
-	for i, word in enumerate(strs):
+	for word in strs:
 	
 		sorted_str = ''.join(sorted(word))
 	
