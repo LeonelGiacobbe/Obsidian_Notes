@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeForces & Leetcode/Root Equals sum of Children, N2236.md",
+                "file": "CodeForces & Leetcode/Arrays/Spiral Matrix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Root Equals sum of Children, N2236"
+              "title": "Spiral Matrix"
             }
           }
         ]
@@ -173,10 +173,12 @@
   },
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
+    "CodeForces & Leetcode/Arrays/Rotate Image.md",
+    "CodeForces & Leetcode/Arrays/Spiral Matrix.md",
+    "CodeForces & Leetcode/Root Equals sum of Children, N2236.md",
     "CodeForces & Leetcode/Hash Tables/Group Anagrams.md",
     "CodeForces & Leetcode/Dynamic Programming/Longest Increasing Subsequence.md",
     "CodeForces & Leetcode/Dynamic Programming/Word Break.md",
-    "CodeForces & Leetcode/Arrays/Rotate Image.md",
     "CodeForces & Leetcode/Hash Tables/Longest Consecutive Sequence.md",
     "CodeForces & Leetcode/Hash Tables/Happy Number.md",
     "CodeForces & Leetcode/Graphs/Clone Graph.md",
@@ -198,8 +200,6 @@
     "CodeForces & Leetcode/Linked Lists/Merge K Sorted Lists.md",
     "CodeForces & Leetcode/Trees/Same Tree.md",
     "CodeForces & Leetcode/Arrays/Product of Array except self.md",
-    "CodeForces & Leetcode/Trees/Maximum length of binary tree.md",
-    "CodeForces & Leetcode/Arrays/Combination sum.md",
     "CodeForces & Leetcode/Linked Lists",
     "CodeForces & Leetcode/Dynamic Programming",
     "Pasted image 20250621121517.png",
