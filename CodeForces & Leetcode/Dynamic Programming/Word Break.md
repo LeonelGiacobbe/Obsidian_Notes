@@ -1,4 +1,4 @@
-Link: https://leetcode.com/problems/word-break/
+	Link: https://leetcode.com/problems/word-break/
 
 ### Keys to solve:
 - Bottoms up dp approach

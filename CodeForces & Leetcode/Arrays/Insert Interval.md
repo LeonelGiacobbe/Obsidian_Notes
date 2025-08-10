@@ -1,4 +1,4 @@
-Link: https://leetcode.com/problems/insert-interval/
+	Link: https://leetcode.com/problems/insert-interval/
 
 ### Keys to solve
 - Use binary search to find the first position where the first element at that position is not smaller than the first element of the new interval
