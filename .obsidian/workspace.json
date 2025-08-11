@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeForces & Leetcode/Bits/Reverse Bits.md",
+                "file": "CodeForces & Leetcode/Dynamic Programming/Climb Stairs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reverse Bits"
+              "title": "Climb Stairs"
             }
           }
         ]
@@ -173,9 +173,10 @@
   },
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
+    "CodeForces & Leetcode/Bits/Reverse Bits.md",
+    "CodeForces & Leetcode/Dynamic Programming/Climb Stairs.md",
     "CodeForces & Leetcode/Bits",
     "CodeForces & Leetcode/Dynamic Programming/Unique Paths.md",
-    "CodeForces & Leetcode/Bits/Reverse Bits.md",
     "CodeForces & Leetcode/Trees/Sub-tree of Another Tree.md",
     "CodeForces & Leetcode/Arrays/Find first and last position of element in sorted array.md",
     "CodeForces & Leetcode/Arrays/Insert Interval.md",
@@ -210,7 +211,6 @@
     "CodeForces & Leetcode/Trees",
     "CodeForces & Leetcode/Sliding window",
     "CodeForces & Leetcode/Hash Tables",
-    "CodeForces & Leetcode/Two Pointers",
     "Untitled 1.canvas"
   ]
 }
