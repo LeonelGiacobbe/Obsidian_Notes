@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeForces & Leetcode/Arrays/Missing Number.md",
+                "file": "Operating Systems/Multi-Core Scheduling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Missing Number"
+              "title": "Multi-Core Scheduling"
             }
           }
         ]
@@ -173,6 +173,10 @@
   },
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
+    "Operating Systems/CPU Limitations.md",
+    "Operating Systems/Multi-Core Scheduling.md",
+    "CodeForces & Leetcode/Arrays/Missing Number.md",
+    "Operating Systems",
     "CodeForces & Leetcode/Arrays/Maximum Subarray.md",
     "CodeForces & Leetcode/Arrays/Combination sum.md",
     "CodeForces & Leetcode/Arrays/Spiral Matrix.md",
@@ -197,10 +201,7 @@
     "CodeForces & Leetcode/Graphs/Clone Graph.md",
     "CodeForces & Leetcode/Greedy/Non-overlapping Intervals.md",
     "CodeForces & Leetcode/Two Pointers/Find Median from Data Stream.md",
-    "CodeForces & Leetcode/Arrays/Merge Intervals.md",
     "CodeForces & Leetcode/Greedy",
-    "CodeForces & Leetcode/Two Pointers/Reorder List.md",
-    "CodeForces & Leetcode/Two Pointers/Palindromic Substrings.md",
     "CodeForces & Leetcode/Linked Lists",
     "CodeForces & Leetcode/Dynamic Programming",
     "Pasted image 20250621121517.png",
@@ -210,7 +211,6 @@
     "CodeForces & Leetcode/Arrays",
     "CodeForces & Leetcode/Trees",
     "CodeForces & Leetcode/Sliding window",
-    "CodeForces & Leetcode/Hash Tables",
     "Untitled 1.canvas"
   ]
 }
