@@ -1,6 +1,5 @@
 - Multi-threading enables better CPU utilization by distributing work across cores.
 
-
 ### Caching
 - Hardware caches helps CPUs run faster by keeping recently-used data close.
 - To decide what's to be cached, multiple rules are used:

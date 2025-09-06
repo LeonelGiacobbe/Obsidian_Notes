@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Multi-Core Scheduling.md",
+                "file": "CodeForces & Leetcode/Arrays/Number of Islands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multi-Core Scheduling"
+              "title": "Number of Islands"
             }
           }
         ]
@@ -161,6 +161,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -173,8 +174,11 @@
   },
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
-    "Operating Systems/CPU Limitations.md",
+    "Dr. Sun Research/LeTac-MPC Notes.md",
+    "CodeForces & Leetcode/Arrays/Number of Islands.md",
+    "Dr. Sun Research/Imitation Learning.md",
     "Operating Systems/Multi-Core Scheduling.md",
+    "Operating Systems/CPU Limitations.md",
     "CodeForces & Leetcode/Arrays/Missing Number.md",
     "Operating Systems",
     "CodeForces & Leetcode/Arrays/Maximum Subarray.md",
@@ -198,9 +202,6 @@
     "CodeForces & Leetcode/Dynamic Programming/Longest Increasing Subsequence.md",
     "CodeForces & Leetcode/Hash Tables/Longest Consecutive Sequence.md",
     "CodeForces & Leetcode/Hash Tables/Happy Number.md",
-    "CodeForces & Leetcode/Graphs/Clone Graph.md",
-    "CodeForces & Leetcode/Greedy/Non-overlapping Intervals.md",
-    "CodeForces & Leetcode/Two Pointers/Find Median from Data Stream.md",
     "CodeForces & Leetcode/Greedy",
     "CodeForces & Leetcode/Linked Lists",
     "CodeForces & Leetcode/Dynamic Programming",
