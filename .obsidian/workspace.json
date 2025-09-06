@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeForces & Leetcode/Arrays/Number of Islands.md",
+                "file": "CodeForces & Leetcode/Arrays/Set Matrix Zeroes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Number of Islands"
+              "title": "Set Matrix Zeroes"
             }
           }
         ]
@@ -174,8 +174,9 @@
   },
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
-    "Dr. Sun Research/LeTac-MPC Notes.md",
     "CodeForces & Leetcode/Arrays/Number of Islands.md",
+    "CodeForces & Leetcode/Arrays/Set Matrix Zeroes.md",
+    "Dr. Sun Research/LeTac-MPC Notes.md",
     "Dr. Sun Research/Imitation Learning.md",
     "Operating Systems/Multi-Core Scheduling.md",
     "Operating Systems/CPU Limitations.md",
@@ -201,7 +202,6 @@
     "CodeForces & Leetcode/Hash Tables/Group Anagrams.md",
     "CodeForces & Leetcode/Dynamic Programming/Longest Increasing Subsequence.md",
     "CodeForces & Leetcode/Hash Tables/Longest Consecutive Sequence.md",
-    "CodeForces & Leetcode/Hash Tables/Happy Number.md",
     "CodeForces & Leetcode/Greedy",
     "CodeForces & Leetcode/Linked Lists",
     "CodeForces & Leetcode/Dynamic Programming",
