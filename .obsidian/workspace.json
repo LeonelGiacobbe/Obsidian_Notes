@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeForces & Leetcode/Arrays/Set Matrix Zeroes.md",
+                "file": "CodeForces & Leetcode/Two Pointers/Minimum Window Substring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Set Matrix Zeroes"
+              "title": "Minimum Window Substring"
             }
           }
         ]
@@ -174,8 +174,9 @@
   },
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
-    "CodeForces & Leetcode/Arrays/Number of Islands.md",
     "CodeForces & Leetcode/Arrays/Set Matrix Zeroes.md",
+    "CodeForces & Leetcode/Two Pointers/Minimum Window Substring.md",
+    "CodeForces & Leetcode/Arrays/Number of Islands.md",
     "Dr. Sun Research/LeTac-MPC Notes.md",
     "Dr. Sun Research/Imitation Learning.md",
     "Operating Systems/Multi-Core Scheduling.md",
@@ -201,7 +202,6 @@
     "CodeForces & Leetcode/Root Equals sum of Children, N2236.md",
     "CodeForces & Leetcode/Hash Tables/Group Anagrams.md",
     "CodeForces & Leetcode/Dynamic Programming/Longest Increasing Subsequence.md",
-    "CodeForces & Leetcode/Hash Tables/Longest Consecutive Sequence.md",
     "CodeForces & Leetcode/Greedy",
     "CodeForces & Leetcode/Linked Lists",
     "CodeForces & Leetcode/Dynamic Programming",
