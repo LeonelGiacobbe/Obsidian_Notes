@@ -2,11 +2,9 @@ Link: https://leetcode.com/problems/add-two-numbers/
 
 
 ### Keys to solve
-- Iterate over both lists and add elements to an overarching sum, multiplying by 10 each time
-- make a new linked list, and while the sum above `> 0`
-	- append `sum % 10` to the list
-	- use integer division to divide by ten and disregard the digit you appended
-		- Example: `807. append 7, 807 //= 10 == 80`. `80. append 0, 80 //= 10 == 8`
+- keep a `carry` variable, which will be the leftover from when you add elements from `l1` and `l2`
+- iterate while `l1, l2 `or `carry`, add the elements (0 for placeholder), then create a new node with value `(l1 + l2) % 10`, and `carry = (l1 + l2) // 10`
+-
 
 
 ### Code
@@ -18,34 +16,23 @@ Link: https://leetcode.com/problems/add-two-numbers/
 #         self.next = next
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        num1 = 0
-        num2 = 0
-
-        mult = 1
-        while l1:
-            num1 += (l1.val * mult)
-            mult *= 10
-            l1 = l1.next
-        
-        mult = 1
-        while l2:
-            num2 += (l2.val * mult)
-            mult *= 10
-            l2 = l2.next
-
-        res = num1 + num2
-
-        if res == 0:
-            return ListNode(0)
 
         dummy = ListNode()
         tmp = dummy
+        carry = 0
 
-        while res > 0:
-            digit = res % 10
-            tmp.next = ListNode(digit)
+        while l1 or l2 or carry:
+            v1 = l1.val if l1 else 0
+            v2 = l2.val if l2 else 0
+
+            res = v1 + v2 + carry
+            carry = res // 10
+            res = res % 10
+
+            tmp.next = ListNode(res)
             tmp = tmp.next
-            res //= 10
+            l1 = l1.next if l1 else None
+            l2 = l2.next if l2 else None
 
         return dummy.next
 
