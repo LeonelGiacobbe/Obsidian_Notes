@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeForces & Leetcode/Two Pointers/Minimum Window Substring.md",
+                "file": "CodeForces & Leetcode/Arrays/Word Search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Minimum Window Substring"
+              "title": "Word Search"
             }
           }
         ]
@@ -174,8 +174,9 @@
   },
   "active": "c3cff92561cbf5a4",
   "lastOpenFiles": [
-    "CodeForces & Leetcode/Arrays/Set Matrix Zeroes.md",
     "CodeForces & Leetcode/Two Pointers/Minimum Window Substring.md",
+    "CodeForces & Leetcode/Arrays/Word Search.md",
+    "CodeForces & Leetcode/Arrays/Set Matrix Zeroes.md",
     "CodeForces & Leetcode/Arrays/Number of Islands.md",
     "Dr. Sun Research/LeTac-MPC Notes.md",
     "Dr. Sun Research/Imitation Learning.md",
@@ -201,7 +202,6 @@
     "CodeForces & Leetcode/Arrays/Rotate Image.md",
     "CodeForces & Leetcode/Root Equals sum of Children, N2236.md",
     "CodeForces & Leetcode/Hash Tables/Group Anagrams.md",
-    "CodeForces & Leetcode/Dynamic Programming/Longest Increasing Subsequence.md",
     "CodeForces & Leetcode/Greedy",
     "CodeForces & Leetcode/Linked Lists",
     "CodeForces & Leetcode/Dynamic Programming",
