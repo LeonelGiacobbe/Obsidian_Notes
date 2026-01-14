@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Abroad/Class 1 Notes.md",
+                "file": "Study Abroad/Psych in Spain Brief Introduction Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class 1 Notes"
+              "title": "Psych in Spain Brief Introduction Notes"
             }
           }
         ]
@@ -175,7 +175,8 @@
   "active": "12aceddfe47af15c",
   "lastOpenFiles": [
     "Study Abroad/Itinerario Sevilla.md",
-    "Study Abroad/Class 1 Notes.md",
+    "Study Abroad/Ibero-American Expedition Notes.md",
+    "Study Abroad/Psych in Spain Brief Introduction Notes.md",
     "Study Abroad/Itinerario Napoli.md",
     "Study Abroad",
     "CodeForces & Leetcode/Trees/Word Search II.md",
@@ -202,7 +203,6 @@
     "CodeForces & Leetcode/Dynamic Programming/Coin Change.md",
     "CodeForces & Leetcode/Bits",
     "CodeForces & Leetcode/Arrays/Find first and last position of element in sorted array.md",
-    "CodeForces & Leetcode/Arrays/Insert Interval.md",
     "CodeForces & Leetcode/Greedy",
     "CodeForces & Leetcode/Linked Lists",
     "CodeForces & Leetcode/Dynamic Programming",
